@@ -1,0 +1,11 @@
+C:\Users\TOSHIBA\Desktop\ClassMethodDemo\ClassMethodDemo\ClassMethodDemo\bin\Debug\netcoreapp2.1\ClassMethodDemo.deps.json
+C:\Users\TOSHIBA\Desktop\ClassMethodDemo\ClassMethodDemo\ClassMethodDemo\bin\Debug\netcoreapp2.1\ClassMethodDemo.runtimeconfig.json
+C:\Users\TOSHIBA\Desktop\ClassMethodDemo\ClassMethodDemo\ClassMethodDemo\bin\Debug\netcoreapp2.1\ClassMethodDemo.runtimeconfig.dev.json
+C:\Users\TOSHIBA\Desktop\ClassMethodDemo\ClassMethodDemo\ClassMethodDemo\bin\Debug\netcoreapp2.1\ClassMethodDemo.dll
+C:\Users\TOSHIBA\Desktop\ClassMethodDemo\ClassMethodDemo\ClassMethodDemo\bin\Debug\netcoreapp2.1\ClassMethodDemo.pdb
+C:\Users\TOSHIBA\Desktop\ClassMethodDemo\ClassMethodDemo\ClassMethodDemo\obj\Debug\netcoreapp2.1\ClassMethodDemo.csprojAssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\ClassMethodDemo\ClassMethodDemo\ClassMethodDemo\obj\Debug\netcoreapp2.1\ClassMethodDemo.csproj.CoreCompileInputs.cache
+C:\Users\TOSHIBA\Desktop\ClassMethodDemo\ClassMethodDemo\ClassMethodDemo\obj\Debug\netcoreapp2.1\ClassMethodDemo.AssemblyInfoInputs.cache
+C:\Users\TOSHIBA\Desktop\ClassMethodDemo\ClassMethodDemo\ClassMethodDemo\obj\Debug\netcoreapp2.1\ClassMethodDemo.AssemblyInfo.cs
+C:\Users\TOSHIBA\Desktop\ClassMethodDemo\ClassMethodDemo\ClassMethodDemo\obj\Debug\netcoreapp2.1\ClassMethodDemo.dll
+C:\Users\TOSHIBA\Desktop\ClassMethodDemo\ClassMethodDemo\ClassMethodDemo\obj\Debug\netcoreapp2.1\ClassMethodDemo.pdb
